@@ -1,0 +1,19 @@
+{
+  "app_dir": "/opt/vinter/apps/",
+  "adbPath": "/home/pi/adb/platform-tools/adb",
+  "androidViewClient_path": "/opt/vinter/AndroidViewClient-master/",
+  "sch_dir": "/opt/vinter/schedules/",
+  "log_dir": "/opt/vinter/logs/",
+  "js_tmp_var_dir": "/opt/vinter/js_tmp_var/",
+  "device_logs_dir": "/var/www/app_ad_images/",
+  "imagesLocation": "/var/www/app_ad_images/",
+  "working_dir": "/opt/vinter/php/",
+  "http_imagesLocation": "http://79.99.65.139/app_ad_images/",
+  "vnc_url": "http://139.162.233.150:5689/peervnc",
+  "device_adb_vnc_port": "7877",
+  "pvnc_port": "5689",
+  "controller_ssh_port": "30522",
+  "vpn_ip": "139.162.233.150",
+  "controller_web_port": "1989",
+  "device_adb_id": "177a882c"
+}

@@ -1,0 +1,14 @@
+{
+  "app_dir": "/opt/vinter/apps/",
+  "adbPath": "/root/Android/Sdk/platform-tools/adb",
+  "androidViewClient_path": "/opt/vinter/AndroidViewClient-master/",
+  "sch_dir": "/opt/vinter/schedules/",
+  "log_dir": "/opt/vinter/logs/",
+  "device_logs_dir": "/var/www/app_ad_images/",
+  "imagesLocation": "/var/www/app_ad_images/",
+  "videosLocation": "/var/www/videos/",
+  "mobileVideosLocation": "/data/local/tmp/veri_video/",
+  "working_dir": "/opt/vinter/php/",
+  "video_status": 1,
+  "http_imagesLocation": "http://79.99.65.139/app_ad_images/"
+}
